@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+}
+.button {
+  margin: 10px;
+  height: 40px;
+  padding: 10px;
+}
+.spantext {
+  color: red;
+}
+.santaimage {
+  margin: 50px;
+}
